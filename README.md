@@ -38,7 +38,7 @@ My current focus is not just on making things with AI, but on understanding how 
 A specification-first AI skill designed to expose missing product decisions instead of letting AI silently fill them in.
 
 ### [Skill_Mutation_Testing](https://github.com/ccw00325-spec/Skill_Mutation_Testing)
-An AI skill for finding what passing tests miss. It scopes mutation runs to changed business logic, checks that new tests actually run, and compares StrykerJS and PIT reports across test revisions. The repository is private.
+An open-source AI skill for finding what passing tests miss. It scopes mutation runs to changed business logic, checks that new tests actually run, and compares StrykerJS and PIT reports before and after test changes. Released under Apache 2.0.
 
 ### HILiT
 Building an AI sports-content workflow around person tracking, natural-language editing, and AI-assisted video creation.
