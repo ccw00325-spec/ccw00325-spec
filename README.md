@@ -8,6 +8,8 @@
 
 I build products with AI and work to understand how they actually run.
 
+**Portfolio** → [cho-chanwoo.vercel.app](https://cho-chanwoo.vercel.app)
+
 ### What I've done
 
 I recently wrapped up **HILiT**, a service that follows one selected person through a video. I built the Tracking, Re-ID, and Camera Movement technology, applied it to the service, and designed the UI.
