@@ -65,6 +65,12 @@ Free for noncommercial use. Commercial use requires prior written approval. See 
 |---|---|
 | [inblue-studio-client-website](https://github.com/ccw00325-spec/inblue-studio-client-website) | A client website for IN BLUE, a PT and Pilates studio. I handled the web design, HTML, consultation requests and admin integration, and [domain setup and deployment](https://www.inblue.site) |
 
+### Competitions
+
+| Repository | Competition | What it does |
+|---|---|---|
+| [HYUNDAI_WITH_U](https://github.com/ccw00325-spec/HYUNDAI_WITH_U) | 2026 Hyundai Motor Group In-Vehicle App Development Contest · Smart Driving & Safety (in progress, team WiTH U) | **WiTH U**, a Pleos Connect (Android Automotive) app that proves how you drove at the moment of a crash. It records speed, gear, brake, turn signal and steering at 10Hz for 7 days, sealing each minute with a SHA-256 hash chain and an in-car Keystore signature. It asks "Was that an accident?" only after a hard brake, a full stop and a shift to P, then guides the next steps by voice, drafts what to say when reporting, records your statement, and issues a 10-minute crash report that opens on a phone via QR (web/PDF) and re-verifies the signatures in the browser. I designed the system and built the app, the web report and the emulator tests (unit + mutation testing). |
+
 ---
 
 ## How I Work
